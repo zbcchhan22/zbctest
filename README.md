@@ -1,2 +1,1 @@
-# zbctest
-test
+Jeg kan godt li kakaofugl
